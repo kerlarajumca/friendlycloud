@@ -1,0 +1,2 @@
+# friendlycloud
+Friendly Cloud Application
